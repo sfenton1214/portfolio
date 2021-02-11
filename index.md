@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## About
+I am a highly dedicated and knowledgeable biologist with a research background in animal movement ecology. I have two years of experience with collaborative lab work, independent project management and data analysis, scientific writing with intent to publish, and grant writing. Extensive outdoor experience and biological fieldwork skills.
 
-You can use the [editor on GitHub](https://github.com/sfenton1214/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Publications
+- Pending publication: Fenton, S., Moorcroft, P., Ćirović, D., Lanszki, J., Heltai, M., Cagnacci, F., Breck, S., Bogdanović, N., Pantelić, I., Ács, K., & Ranc, N. Movement, space-use and resource preferences of European golden jackals in human-dominated landscapes: insights from a telemetry study. Mammalian Biology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
+- Find your fish, an interactive dichotomous key of inland fishes of Massachusetts, using Python.
 
-### Markdown
+## Field Work
+- Swedish Arctic Fox Project, Stockholm University 
+- Judith River Dinosaur Institute 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
+- Harvard University, Magna Cum Laude. BA with Highest Honors in Organismic and Evolutionary Biology (Integrative Biology), secondary in Celtic Languages and Literature.
+- John Harvard Scholar: top 5% of the class, 2017-2018.
 
-```markdown
-Syntax highlighted code block
+## References
+- **Dr. Andrew Berry**, Asst. Head Tutor of Integrative Biology, Academic advisor, Harvard University
+- **Prof. Paul Moorcroft**, Principal Investigator Moorcroft laboratory, undergraduate research and thesis advisor, Harvard University
+- **Prof. Joseph Nagy**, Director of Graduate Studies, Department of Celtic Languages and Literatures, Harvard University
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sfenton1214/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact
+Reach out via my LinkedIn [here](www.linkedin.com/in/skye-fenton) or contact me at sfenton [ at ] alumni.harvard.edu
