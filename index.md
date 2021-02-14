@@ -1,15 +1,17 @@
 ## About
-I am a highly dedicated and knowledgeable biologist with a research background in animal movement ecology. I have two years of experience with collaborative lab work, independent project management and data analysis, scientific writing with intent to publish, and grant writing. Extensive outdoor experience and biological fieldwork skills.
+I am a highly dedicated and knowledgeable biologist with a research background in animal movement ecology. I have two years of experience with collaborative lab work, independent project management and data analysis, scientific writing with intent to publish, and grant writing. 
+
+Significant research experience coding in R, coursework experience in Python and C. Extensive outdoor experience and biological fieldwork skills.
 
 ## Publications
-- Pending publication: Fenton, S., Moorcroft, P., Ćirović, D., Lanszki, J., Heltai, M., Cagnacci, F., Breck, S., Bogdanović, N., Pantelić, I., Ács, K., & Ranc, N. Movement, space-use and resource preferences of European golden jackals in human-dominated landscapes: insights from a telemetry study. Mammalian Biology.
+- Pending publication: Fenton, S., Moorcroft, P., Ćirović, D., Lanszki, J., Heltai, M., Cagnacci, F., Breck, S., Bogdanović, N., Pantelić, I., Ács, K., & Ranc, N. Movement, space-use and resource preferences of European golden jackals in human-dominated landscapes: insights from a telemetry study. _Mammalian Biology_.
 
-## Projects
-- Find your fish, an interactive dichotomous key of inland fishes of Massachusetts, using Python.
-
-## Field Work
-- Swedish Arctic Fox Project, Stockholm University 
-- Judith River Dinosaur Institute 
+## Projects & Field Work
+- Find your Fish, an interactive dichotomous key of inland fishes of Massachusetts, using Python. [Link here.](https://github.com/sfenton1214/find-your-fish)
+- Predicting Breast Cell Malignancy from Logistic Regression Models and Neural Nets: Optimizing Model Selection. [Link here.](https://drive.google.com/file/d/1SLBYL2yAd9rIIPcidHKwuGVzyoJBUXzN/view?usp=sharing)
+- Swedish Arctic Fox Project field work, Stockholm University. [Link here.](https://drive.google.com/file/d/1vS9y0qDHXqDgDnTmhXKgU7B60jG-eH_k/view?usp=sharing)
+- Avian Diversity Field Project, using R. [Link here.](https://drive.google.com/file/d/1OphhUZ7aRhP_LACuQUPMZBzbYSA2c-4K/view?usp=sharing)
+- Pigeon Dissection Illustration Project. [Link here.](https://drive.google.com/file/d/1k2d1MAInRbsByqsKFVlBWQCgxaXrYkNz/view?usp=sharing)
 
 ## Education
 - Harvard University, Magna Cum Laude. BA with Highest Honors in Organismic and Evolutionary Biology (Integrative Biology), secondary in Celtic Languages and Literature.
@@ -19,7 +21,6 @@ I am a highly dedicated and knowledgeable biologist with a research background i
 - **Dr. Andrew Berry**, Asst. Head Tutor of Integrative Biology, Academic advisor, Harvard University
 - **Prof. Paul Moorcroft**, Principal Investigator Moorcroft laboratory, undergraduate research and thesis advisor, Harvard University
 - **Prof. Joseph Nagy**, Director of Graduate Studies, Department of Celtic Languages and Literatures, Harvard University
-
 
 ## Contact
 Reach out via my LinkedIn [here](www.linkedin.com/in/skye-fenton) or contact me at sfenton [ at ] alumni.harvard.edu
