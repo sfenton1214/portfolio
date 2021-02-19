@@ -6,16 +6,16 @@ Significant research experience coding in R, coursework experience in Python and
 ## Publications
 - Pending publication: Fenton, S., Moorcroft, P., Ćirović, D., Lanszki, J., Heltai, M., Cagnacci, F., Breck, S., Bogdanović, N., Pantelić, I., Ács, K., & Ranc, N. Movement, space-use and resource preferences of European golden jackals in human-dominated landscapes: insights from a telemetry study. _Mammalian Biology_.
 
-## Projects & Field Work
-- Find your Fish, an interactive dichotomous key of inland fishes of Massachusetts, using Python. [Link here.](https://github.com/sfenton1214/find-your-fish)
-- Predicting Breast Cell Malignancy from Logistic Regression Models and Neural Nets: Optimizing Model Selection. [Link here.](https://drive.google.com/file/d/1SLBYL2yAd9rIIPcidHKwuGVzyoJBUXzN/view?usp=sharing)
-- Swedish Arctic Fox Project field work, Stockholm University. [Link here.](https://drive.google.com/file/d/1vS9y0qDHXqDgDnTmhXKgU7B60jG-eH_k/view?usp=sharing)
-- Avian Diversity Field Project, using R. [Link here.](https://drive.google.com/file/d/1OphhUZ7aRhP_LACuQUPMZBzbYSA2c-4K/view?usp=sharing)
-- Pigeon Dissection Illustration Project. [Link here.](https://drive.google.com/file/d/1k2d1MAInRbsByqsKFVlBWQCgxaXrYkNz/view?usp=sharing)
+## Projects
+- **Creating Heat Maps of Animal Habitat Preference**, using R. [Link here.](https://drive.google.com/file/d/1xhhtkLVB5gBajoDdUcCWQ1z-yNxtlT_F/view?usp=sharing) This content is password protected. Please contact me to view.
+- **Find your Fish**, an interactive dichotomous key of inland fishes of Massachusetts, using Python. [Link here.](https://github.com/sfenton1214/find-your-fish)
+- **Predicting Breast Cell Malignancy from Logistic Regression Models and Neural Nets: Optimizing Model Selection**, using R. [Link here.](https://drive.google.com/file/d/1SLBYL2yAd9rIIPcidHKwuGVzyoJBUXzN/view?usp=sharing)
+- **Avian Diversity Field Project**, using R. [Link here.](https://drive.google.com/file/d/1OphhUZ7aRhP_LACuQUPMZBzbYSA2c-4K/view?usp=sharing)
 
-## Education
-- Harvard University, Magna Cum Laude. BA with Highest Honors in Organismic and Evolutionary Biology (Integrative Biology), secondary in Celtic Languages and Literature.
-- John Harvard Scholar: top 5% of the class, 2017-2018.
+## Education & Field Work
+- **Harvard University, Magna Cum Laude**. BA with Highest Honors in Organismic and Evolutionary Biology (Integrative Biology), secondary in Celtic Languages and Literature.
+- **John Harvard Scholar**: top 5% of the class, 2017-2018.
+- **Swedish Arctic Fox Project field work**, Stockholm University. [Link here.](https://drive.google.com/file/d/1vS9y0qDHXqDgDnTmhXKgU7B60jG-eH_k/view?usp=sharing)
 
 ## References
 - **Dr. Andrew Berry**, Asst. Head Tutor of Integrative Biology, Academic advisor, Harvard University
@@ -24,3 +24,5 @@ Significant research experience coding in R, coursework experience in Python and
 
 ## Contact
 Reach out via my LinkedIn [here](www.linkedin.com/in/skye-fenton) or contact me at sfenton [ at ] alumni.harvard.edu
+
+_Want to see how I bring biology into everying I do? [Click here for my pigeon dissection illustrations.](https://drive.google.com/file/d/1k2d1MAInRbsByqsKFVlBWQCgxaXrYkNz/view?usp=sharing)_
