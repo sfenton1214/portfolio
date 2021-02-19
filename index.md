@@ -23,6 +23,6 @@ Significant research experience coding in R, coursework experience in Python and
 - **Prof. Joseph Nagy**, Director of Graduate Studies, Department of Celtic Languages and Literatures, Harvard University
 
 ## Contact
-Reach out via my LinkedIn [here](www.linkedin.com/in/skye-fenton) or contact me at sfenton [ at ] alumni.harvard.edu
+Reach out via my LinkedIn [here](https://www.linkedin.com/in/skye-fenton) or contact me at sfenton [ at ] alumni.harvard.edu
 
 _Want to see how I bring biology into everying I do? [Click here for my pigeon dissection illustrations.](https://drive.google.com/file/d/1k2d1MAInRbsByqsKFVlBWQCgxaXrYkNz/view?usp=sharing)_
