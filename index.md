@@ -6,6 +6,7 @@ Significant research experience coding in R, coursework experience in Python and
 ## Publications
 Fenton, S., Moorcroft, P., Ćirović, D., Lanszki, J., Heltai, M., Cagnacci, F., Breck, S., Bogdanović, N., Pantelić, I., Ács, K., & Ranc, N. (2021). Movement, space-use and resource preferences of European golden jackals in human-dominated landscapes: insights from a telemetry study. _Mammalian Biology_.
 [https://doi.org/10.1007/S42991-021-00109-2](https://link.springer.com/article/10.1007%2Fs42991-021-00109-2)
+
 Contact me for the full pdf.
 
 ## Projects
