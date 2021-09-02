@@ -12,7 +12,7 @@ Contact me for the full pdf.
 ## Projects
 - **Creating Heat Maps of Animal Habitat Preference**, using R. [Link here.](https://drive.google.com/file/d/1xhhtkLVB5gBajoDdUcCWQ1z-yNxtlT_F/view?usp=sharing) This content is password protected. Please contact me to view.
 - **Find your Fish**, an interactive dichotomous key of inland fishes of Massachusetts, using Python. [Link here.](https://github.com/sfenton1214/find-your-fish)
-- **Predicting Breast Cell Malignancy from Logistic Regression Models and Neural Nets: Optimizing Model Selection**, using R. [Link here.](https://drive.google.com/file/d/1SLBYL2yAd9rIIPcidHKwuGVzyoJBUXzN/view?usp=sharing)
+- **Predicting Breast Cell Malignancy from Logistic Regression Models and Neural Nets: Optimizing Model Selection**, using R. [Link here.](https://drive.google.com/file/d/11FEt0BzU7mxeiqDtfyUAwaUTYLs6R0Ae/view?usp=sharing)
 - **Avian Diversity Field Project**, using R. [Link here.](https://drive.google.com/file/d/1OphhUZ7aRhP_LACuQUPMZBzbYSA2c-4K/view?usp=sharing)
 
 ## Education & Field Work
