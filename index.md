@@ -1,5 +1,5 @@
 ## About
-Highly dedicated biologist with a strong technical background and research focus in animal movement ecology. Three years of experience with collaborative lab work, independent project management, statistical data analysis & modeling, grant writing, and scientific writing with intent to publish.
+Climate tech analyst with a strong technical background and research focus in ecological modeling. Over a year spent developing forest carbon pilot programs on a small cross-functional team, working closely with data scientists on research, data acquisition, vetting, prep, and analysis. Three years of experience with collaborative lab work which included independent project management, statistical data analysis & modeling, grant writing, and scientific writing with intent to publish.
 
 Significant research experience coding in R, coursework experience in Python and C. Extensive outdoor experience and biological fieldwork skills.
 
